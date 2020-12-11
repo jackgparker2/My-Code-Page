@@ -1,5 +1,6 @@
 # My-Code-Page
 
+<xmp>
 import turtle
 
 turtle.pencolor("red")
@@ -19,5 +20,6 @@ for i in range(50):
 turtle.speed(0)
 
 turtle.done()
+</xmp>
 
-[Home
+[Home]
